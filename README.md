@@ -20,9 +20,6 @@
 1. The application sends the user message to IBM Watson Natural Language Understanding service.
 1. Watson Natural Language Understanding processes the text or url and extract features such us keywords, concepts, categories. The service can be provisioned on either IBM Cloud.
 
-# Natural Language Understanding
-
-## Follow below steps:
 
 ### Step 1 : Sign-up for IBM Cloud Platform
 
