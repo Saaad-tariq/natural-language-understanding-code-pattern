@@ -58,7 +58,6 @@ IBM Cloud Login-link: [http://ibm.biz/aipath1](http://ibm.biz/aipath1)
 
 ### Step 5 : Check if your Service is active
 
-Click "Visit App URL" and a new tab will open then you can see your app running.
 
 ![GitHub Logo](public/5.png)
 
