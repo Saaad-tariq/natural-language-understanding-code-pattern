@@ -82,15 +82,8 @@ Click "Visit App URL" and a new tab will open then you can see your app running.
     NATURAL_LANGUAGE_UNDERSTANDING_IAM_APIKEY=<API Key>
     NATURAL_LANGUAGE_UNDERSTANDING_URL=https://api.us-east.natural-language-understanding.watson.cloud.ibm.com/
     ```
-1. Select "Manage"
+![GitHub Logo](public/7.png)
 
-2. In Manage section copy "API Key" and paste it to .env file
-
-![GitHub Logo](images/7.png)
-
-3. In Manage section copy "URL" and paste it to .env file
-
-![GitHub Logo](images/8.png)
 
 ## Running locally
 
@@ -100,27 +93,19 @@ Click "Visit App URL" and a new tab will open then you can see your app running.
    npm install
    ```
 
-1. Build the application
+2. Build the application
 
    ```
    npm run build
    ```
 
-1. Run the application
+3. Run the application
 
    ```
    npm run dev
    ```
 
-1. View the application in a browser at `localhost:3000`
+4. View the application in a browser at `localhost:3000`
 
-### Step 7 : Finally your application is up and running
+![GitHub Logo](public/8.png)
 
-1. Get back to your main page by selectung your app name on top
-
-![GitHub Logo](images/14.png)
-
-
-2. Click visit URL and see your app running
-
-![GitHub Logo](images/15.png)
