@@ -27,14 +27,14 @@
 
 [http://ibm.biz/aipath1](http://ibm.biz/aipath1)
 
-![GitHub Logo](images/1.png)
+![GitHub Logo](public/1.png)
 
 
 ### Step 2 : Login into your IBM account and search for "Natural Language Understanding"
 
 IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
-![GitHub Logo](images/2.png)
+![GitHub Logo](public/2.png)
 
 
 ### Step 3 : Then select "Lite Pricing Plan" 
