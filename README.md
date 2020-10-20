@@ -31,7 +31,7 @@
 
 ### Step 2 : Login into your IBM account and search for "Natural Language Understanding"
 
-If you already have an account IBM Cloud Login: [http://ibm.biz/aipath1] (http://ibm.biz/aipath1)
+If you already have an account IBM Cloud Login: [http://ibm.biz/aipath1] 
 
 ![GitHub Logo](public/2.png)
 
