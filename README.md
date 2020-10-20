@@ -48,19 +48,19 @@ IBM Cloud Login-link: [http://ibm.biz/aipath1](http://ibm.biz/aipath1)
 
 1. Select region "London".
 
-![GitHub Logo](public/4.png)
+![GitHub Logo](public/3.png)
 
 2. Service name: "Natural Language Understanding" (You can use any unique name)
 3. Once everything is done click "Create"
 
-![GitHub Logo](public/5.png)
+![GitHub Logo](public/4.png)
 
 
 ### Step 5 : Check if your Service is active
 
 Click "Visit App URL" and a new tab will open then you can see your app running.
 
-![GitHub Logo](public/6.png)
+![GitHub Logo](public/5.png)
 
 
 ### Step 6 : It's time to copy credentials in our application
@@ -82,6 +82,7 @@ Click "Visit App URL" and a new tab will open then you can see your app running.
     NATURAL_LANGUAGE_UNDERSTANDING_IAM_APIKEY=<API Key>
     NATURAL_LANGUAGE_UNDERSTANDING_URL=https://api.us-east.natural-language-understanding.watson.cloud.ibm.com/
     ```
+![GitHub Logo](public/6.png)
 ![GitHub Logo](public/7.png)
 
 
@@ -105,7 +106,7 @@ Click "Visit App URL" and a new tab will open then you can see your app running.
    npm run dev
    ```
 
-4. View the application in a browser at `localhost:3000`
+4. View the application in a browser at `localhost:5000`
 
 ![GitHub Logo](public/8.png)
 
