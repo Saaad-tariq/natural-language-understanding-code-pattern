@@ -27,6 +27,7 @@
 
 [http://ibm.biz/aipath1](http://ibm.biz/aipath1)
 
+
 ![GitHub Logo](public/1.png)
 
 
@@ -39,26 +40,26 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 ### Step 3 : Then select "Lite Pricing Plan" 
 
-![GitHub Logo](images/3.png)
+![GitHub Logo](public/3.png)
 
 
 ### Step 4 : Let's setup your Service
 
 1. Select region "London".
 
-![GitHub Logo](images/4.png)
+![GitHub Logo](public/4.png)
 
 2. Service name: "Natural Language Understanding" (You can use any unique name)
 3. Once everything is done click "Create"
 
-![GitHub Logo](images/5.png)
+![GitHub Logo](public/5.png)
 
 
 ### Step 5 : Check if your Service is active
 
 Click "Visit App URL" and a new tab will open then you can see your app running.
 
-![GitHub Logo](images/6.png)
+![GitHub Logo](public/6.png)
 
 
 ### Step 6 : It's time to copy credentials in our application
