@@ -53,7 +53,7 @@ If you already have an account IBM Cloud Login: [http://ibm.biz/aipath1]
 ![GitHub Logo](public/4.png)
 
 
-### Step 5 : Check if your Service is active
+### Step 5 : Check if your Service is Active
 
 
 ![GitHub Logo](public/5.png)
