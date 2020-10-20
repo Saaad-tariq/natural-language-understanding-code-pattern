@@ -34,7 +34,7 @@
 
 ### Step 2 : Login into your IBM account and search for "Natural Language Understanding"
 
-IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
+IBM Cloud Login-link: [http://ibm.biz/aipath1](http://ibm.biz/aipath1)
 
 ![GitHub Logo](public/2.png)
 
@@ -79,7 +79,7 @@ Click "Visit App URL" and a new tab will open then you can see your app running.
     Example _.env_ file that configures the `apikey` and `url` for a Natural Language Understanding service instance hosted in the US East region:
 
     ```
-    NATURAL_LANGUAGE_UNDERSTANDING_IAM_APIKEY=X4rbi8vwZmKpXfowaS3GAsA7vdy17Qh7km5D6EzKLHL2
+    NATURAL_LANGUAGE_UNDERSTANDING_IAM_APIKEY=<API Key>
     NATURAL_LANGUAGE_UNDERSTANDING_URL=https://api.us-east.natural-language-understanding.watson.cloud.ibm.com/
     ```
 1. Select "Manage"
