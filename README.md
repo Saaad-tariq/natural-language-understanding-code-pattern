@@ -64,6 +64,8 @@ IBM Cloud Login-link: [http://ibm.biz/aipath1](http://ibm.biz/aipath1)
 
 ### Step 6 : It's time to copy credentials in our application
 
+![GitHub Logo](public/6.png)
+
 <details>
 <summary>Configure the authentication manually</summary>
 
@@ -81,7 +83,6 @@ IBM Cloud Login-link: [http://ibm.biz/aipath1](http://ibm.biz/aipath1)
     NATURAL_LANGUAGE_UNDERSTANDING_IAM_APIKEY=<API Key>
     NATURAL_LANGUAGE_UNDERSTANDING_URL=https://api.us-east.natural-language-understanding.watson.cloud.ibm.com/
     ```
-![GitHub Logo](public/6.png)
 ![GitHub Logo](public/7.png)
 
 
