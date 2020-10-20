@@ -43,12 +43,12 @@ If you already have an account IBM Cloud Login: [http://ibm.biz/aipath1]
 
 ### Step 4 : Let's setup your Service
 
-1. Select region "London".
+1. Select region **London**.
 
 ![GitHub Logo](public/3.png)
 
-2. Service name: "Natural Language Understanding" (You can use any unique name)
-3. Once everything is done click "Create"
+2. Service name: **Natural Language Understanding** (You can use any unique name)
+3. Once everything is done click **Create**
 
 ![GitHub Logo](public/4.png)
 
