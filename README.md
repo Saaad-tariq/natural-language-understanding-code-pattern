@@ -25,7 +25,7 @@
 
 ### Step 1 : Sign-up for IBM Cloud Platform
 
-[http://ibm.biz/BdqPB7](http://ibm.biz/BdqPB7)
+[http://ibm.biz/aipath1](http://ibm.biz/aipath1)
 
 ![GitHub Logo](images/1.png)
 
