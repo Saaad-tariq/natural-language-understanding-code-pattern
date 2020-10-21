@@ -23,7 +23,7 @@
 
 ### Step 1 : Sign-up for IBM Cloud Platform
 
-Signup : [http://ibm.biz/aipath1](http://ibm.biz/aipath1)
+Signup : [http://ibm.biz/pathto-ai](http://ibm.biz/pathto-ai)
 
 
 ![GitHub Logo](public/1.png)
@@ -31,7 +31,7 @@ Signup : [http://ibm.biz/aipath1](http://ibm.biz/aipath1)
 
 ### Step 2 : Login into your IBM account and search for "Natural Language Understanding"
 
-If you already have an account IBM Cloud Login: [http://ibm.biz/aipath1] 
+If you already have an account IBM Cloud Login: [http://ibm.biz/pathto-ai] 
 
 ![GitHub Logo](public/2.png)
 
